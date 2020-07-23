@@ -1,0 +1,4 @@
+google
+googlesearch
+requests
+colorama
